@@ -1,4 +1,4 @@
-# Visualize with Bokeh
+# Visualization with Bokeh
 
 <p align="center"> <img src="image/bokeh.png" /> </p>
 <p align="center"> This image is retrieved from <a href="https://docs.bokeh.org/en/latest/index.html">Bokeh organization</a>. </p>
