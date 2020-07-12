@@ -14,4 +14,4 @@ The objective of this project is to design a notebook for people who are interes
 ## How to run it remotely
 Click the badge below. This badge will bring you to the virtual enviroment boosted through the BinderHub and you can run the code in the **index.ipynb**. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ray800413/Visualize_with_Bokeh/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ray800413/Visualization_with_Bokeh/master)
